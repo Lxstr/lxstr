@@ -8832,7 +8832,7 @@ h6 {
   color: #fff;
 }
 .blog-list .item .title {
-  font-size: 1.275rem;
+  /* font-size: 1.275rem; */
 }
 .blog-list .item .title a {
   color: #292929;
@@ -8845,14 +8845,14 @@ h6 {
   border-radius: 2px;
 }
 .blog-list .item .intro {
-  font-size: 0.875rem;
+  /* font-size: 0.875rem; */
 }
 .blog-list .item .more-link {
-  font-size: 0.8125rem;
+  /* font-size: 0.8125rem; */
 }
 .meta {
   color: #8f8f8f;
-  font-size: 0.8125rem;
+  /* font-size: 0.8125rem; */
 }
 .meta span {
   display: inline-block;
@@ -9137,4 +9137,5 @@ body {
 }
 .blog-post {
   font-family: Georgia, "Times New Roman", Times, serif;
+  line-height: 2rem;
 }
